@@ -33,6 +33,18 @@ python git_dumper.py http://website.com/.git ./website
 - Bu repo, git-dumper'in refurbished surumudur.
 - Guncel Python surumleriyle sorunsuz calismasi hedeflenmistir.
 
+### Desteklenen Python Surumleri
+
+Python 3.8+ hedeflenir.
+
+### Referanslar
+
+- Orijinal proje: https://github.com/arthaud/git-dumper
+
+### Lisans
+
+Lisans bilgisi yakinda eklenecektir.
+
 ## English (EN)
 
 ### Overview
@@ -62,3 +74,14 @@ python git_dumper.py http://website.com/.git ./website
 - This repository is the refurbished edition of git-dumper.
 - It is intended to work smoothly with current Python versions.
 
+### Supported Python Versions
+
+Python 3.8+ is targeted.
+
+### References
+
+- Original project: https://github.com/arthaud/git-dumper
+
+### License
+
+License information will be added soon.
